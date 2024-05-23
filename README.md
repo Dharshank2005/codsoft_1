@@ -37,5 +37,3 @@ uuid: ^3.0.0
 ## Contributing:
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
 
-## Sample video:
-![Sample Video]([https://www.example.com/sample-video.mp](https://drive.google.com/file/d/1WYY56ZABS0SnLbtEnBs80h4q8cnnQTGn/view?usp=drive_link)4)
