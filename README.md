@@ -1,16 +1,35 @@
-# persoal_expense_tracker
+Expense Tracker
+A simple expense tracking app built with Flutter and Provider state management.
+Features
+Track income and expenses
+Categorize transactions (House, Food, Groceries, Other)
+View current balance
+Add monthly budgets
+Responsive design for both iOS and Android
+Screenshots
+Expense Tracker Screenshot 1
+Expense Tracker Screenshot 2
+Getting Started
+Clone the repository:
+bash
+git clone https://github.com/your-username/expense-tracker.git
 
-A new Flutter project.
+Navigate to the project directory:
+bash
+cd expense-tracker
 
-## Getting Started
+Install dependencies:
+bash
+flutter pub get
 
-This project is a starting point for a Flutter application.
+Run the app:
+bash
+flutter run
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dependencies
+flutter: ^3.0.0
+provider: ^6.0.0
+intl: ^0.18.0
+uuid: ^3.0.0
+Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
